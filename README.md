@@ -8,4 +8,4 @@ I chose this topic because one of my geology professors recently addressed the i
 ![Water](https://github.com/julestyang/julestyang.github.io/blob/main/Water%20Infographic.png?raw=true)  
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10Jtm4qplvUtb2QUl7sDG1S_RMYV_gdjJZviAwyddnbY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>  
 
-![Enrollment](https://github.com/julestyang/julestyang.github.io/blob/main/Enrollment.png)
+![Enrollment](https://github.com/julestyang/julestyang.github.io/blob/main/Enrollment.png?raw=true)
