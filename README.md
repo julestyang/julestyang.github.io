@@ -12,5 +12,6 @@ I chose this topic because one of my geology professors recently addressed the i
 ![Party](https://github.com/julestyang/julestyang.github.io/blob/main/10-27-2022.jpg?raw=true)
 
 Below are new works since Dec 2022
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=14WwC2khuyJzOhPJ6w-3_4T1EBBQgpvtJxVn5TDQZ4kc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=14WwC2khuyJzOhPJ6w-3_4T1EBBQgpvtJxVn5TDQZ4kc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>  
+
 ![Chart](https://github.com/julestyang/julestyang.github.io/blob/main/Lehigh_Acceptance_Rate_in_Past_10_Years_30.13%25_35.73%25_chartbuilder.png?raw=true)
