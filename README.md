@@ -16,4 +16,7 @@ Below are new works since Dec 2022
 This is Timeline project  
 
 ![Chart](https://github.com/julestyang/julestyang.github.io/blob/main/Lehigh_Acceptance_Rate_in_Past_10_Years_30.13%25_35.73%25_chartbuilder.png?raw=true)
-This chart project 2
+This chart is project 2  
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1GrINaFD1nJOJOCIjWh_k6GY7T0FyrOk&ehbc=2E312F" width="640" height="480"></iframe>
+This is Google my Map  
