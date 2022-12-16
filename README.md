@@ -21,5 +21,5 @@ This chart is project 2
 <iframe src="https://www.google.com/maps/d/embed?mid=1GrINaFD1nJOJOCIjWh_k6GY7T0FyrOk&ehbc=2E312F" width="640" height="480"></iframe>
 This is Google my Map  
 
-![A]()
+![A](https://github.com/julestyang/julestyang.github.io/blob/main/A.jpg?raw=true)
 Comic project  
